@@ -26,5 +26,5 @@
 <img width="419" alt="image" src="https://github.com/sakurav12vsnr/case/assets/138364593/d192a2e5-91ea-4e1a-94f9-78e64f0b4f7e">
 
 ##ER図
-
+<img width="598" alt="image" src="https://github.com/sakurav12vsnr/case/assets/138364593/198a1760-08b8-47a4-927f-363ceee1d61d">
 
